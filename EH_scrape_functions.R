@@ -6,9 +6,7 @@
 
 
 ## Dependencies
-# library(RCurl); library(xml2); library(rvest); library(jsonlite); library(foreach)
-# library(lubridate)
-# library(tidyverse) -- specifically: stringr, readr, tidyr, and dplyr
+
 
 
 ## Set for numeric/text formatting within scraper
